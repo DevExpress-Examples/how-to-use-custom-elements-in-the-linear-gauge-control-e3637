@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearGaugeControl_CustomElement", "LinearGaugeControl_CustomElement\LinearGaugeControl_CustomElement.csproj", "{761F5F63-54E8-4449-A6C6-F900AECE70CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearGaugeControl_CustomElement.Web", "LinearGaugeControl_CustomElement.Web\LinearGaugeControl_CustomElement.Web.csproj", "{12D5EC06-4EA3-45C1-9230-38B349CDAE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761F5F63-54E8-4449-A6C6-F900AECE70CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761F5F63-54E8-4449-A6C6-F900AECE70CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761F5F63-54E8-4449-A6C6-F900AECE70CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761F5F63-54E8-4449-A6C6-F900AECE70CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D5EC06-4EA3-45C1-9230-38B349CDAE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D5EC06-4EA3-45C1-9230-38B349CDAE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D5EC06-4EA3-45C1-9230-38B349CDAE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D5EC06-4EA3-45C1-9230-38B349CDAE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
