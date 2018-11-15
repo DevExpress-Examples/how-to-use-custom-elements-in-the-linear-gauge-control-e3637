@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/LinearGaugeControl_CustomElement/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/LinearGaugeControl_CustomElement/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/LinearGaugeControl_CustomElement/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/LinearGaugeControl_CustomElement/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to use custom elements in the Linear Gauge control
 
 
