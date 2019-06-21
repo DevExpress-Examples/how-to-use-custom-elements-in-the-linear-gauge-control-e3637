@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/LinearGaugeControl_CustomElement/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/LinearGaugeControl_CustomElement/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to use custom elements in the Linear Gauge control
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3637)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to add two buttons as custom elements to the linear scale and use them to increase or decrease the current scale value. </p><br />
